@@ -8,3 +8,5 @@ print('Total de Ventas = '+ str( datos['Venta'].sum()))
 print('Total de sucursal =  ' + str( datos['Sucursal'].sum()))
 
 datos.hist()
+
+input()

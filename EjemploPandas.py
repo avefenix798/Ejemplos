@@ -15,9 +15,11 @@ print(totales)
 
 total =df['Venta'].sum() 
 
+
+
 print ('Total = ' + str( total))
 
-
+input()
 
 
 
