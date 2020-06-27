@@ -10,8 +10,3 @@ import pandas as pd
 datos = pd.read_csv('Datos.csv')
 
 print(datos)
-
-datos.plot()
-
-
-datos.plot.pie(y='Venta', figsize=(5, 5))
