@@ -15,3 +15,4 @@ print('El maximo es  = ' + str(max(x)))
 
 ptl.plot(x)
 ptl.title("Título")
+input()
