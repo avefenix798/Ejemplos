@@ -26,4 +26,5 @@ ax.plot_surface(Xc, -Yc, Zc, alpha=0.2, rstride=10, cstride=10) # Mitad trasera
 
 plt.show()
 x=0
+input()
 
